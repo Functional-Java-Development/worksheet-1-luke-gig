@@ -1,4 +1,4 @@
-package qtwo;
+package q2;
 
 import java.util.List;
 

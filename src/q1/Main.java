@@ -1,4 +1,4 @@
-package qone;
+package q1;
 
 import java.util.Arrays;
 import java.util.Comparator;

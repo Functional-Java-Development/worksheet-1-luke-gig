@@ -1,4 +1,4 @@
-package qthree;
+package q3;
 
 import java.util.Collection;
 import java.util.LinkedList;
